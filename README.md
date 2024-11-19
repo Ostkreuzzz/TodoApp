@@ -11,7 +11,7 @@ Users should be able to:
 
 ### Interface
 
-![](interface.gif)
+![](public\interface.gif)
 
 ### Links
 
