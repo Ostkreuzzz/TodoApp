@@ -11,7 +11,7 @@ Users should be able to:
 
 ### Interface
 
-![](public\interface.gif)
+![](chrome-capture-2024-11-19.gif)
 
 ### Links
 
