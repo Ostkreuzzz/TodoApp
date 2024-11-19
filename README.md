@@ -36,4 +36,4 @@ Users should be able to:
 
 - Github - [Ostkreuzzz](https://github.com/superpooperxxx)
 - LinkedIn - [Mykhailo Sulima](https://www.linkedin.com/in/mykhailo-sulima-a80648339/)
-- Telegram - [@Ostkreuz](https://t.me/haidukwork)
+- Telegram - [@Ostkreuz](https://t.me/Ostkreuz)
